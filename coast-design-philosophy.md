@@ -6,8 +6,6 @@ Design at Coast is a foundational, collaborative discipline - alongside product 
 
 We treat design as central to building opinionated, high-quality products and services for a specific audience: fleet drivers and operators. We do not build "everything for everyone." We make strong choices for a clear use case, and we make them well.
 
----
-
 ## What we believe
 
 ### Great design is opinionated
@@ -22,8 +20,6 @@ We believe design drives business results first before being aesthetics. Design 
 - Improving clarity and onboarding: reducing friction from first contact
 - Increasing engagement and retention: giving customers reasons to stay
 
----
-
 ## How we work
 
 ### Quality is the north star
@@ -34,8 +30,6 @@ We operate in small cross-functional teams (typically 3–5 people) collaborate 
 
 ### Design leads from discovery
 Design is not brought in after the problem is defined. Designers are involved from the earliest stages of discovery; framing the problem, challenging assumptions, and helping define what success looks like before a single pixel is placed.
-
----
 
 ## What this means for designers at coast
 
