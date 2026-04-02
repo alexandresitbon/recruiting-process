@@ -1,3 +1,3 @@
 # Recruiting Process
 
-Reusable recruiting templates and frameworks for product design roles.
+Reusable recruiting frameworks and templates for product design roles.
