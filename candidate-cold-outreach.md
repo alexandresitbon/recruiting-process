@@ -1,3 +1,8 @@
+---
+name: Candidate cold outreach
+description: Messages to send to candidates via LinkedIn, email or social media
+---
+
 ## Message subject for any role
 
 - Option 1: Are you ready for something harder?
@@ -45,7 +50,7 @@ Open to hearing more?
 Talk soon,
 Alexandre
 
-##  Archived copy - do not use  for product designers 
+##  Archived copy - do not use 
 
 Hey [First Name]!
 
@@ -60,7 +65,6 @@ We're hiring a [role] and your background made me think you could be a strong fi
 I'd also love to hear what you're thinking about for your next move and what matters most to you right now. Would you be open to a 20-minute call? No pressure either way.
 
 Alexandre
-
 
 ## Personalization notes
 

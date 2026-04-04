@@ -1,3 +1,10 @@
+---
+name: Community outreach
+description: Messages to send to the product or design community to recommend candidates
+---
+
+# Design 
+
 Here's a design problem not many people are working on: how do you build a financial product that's genuinely simple for a plumber in the field, and genuinely powerful for the owner managing 20 of them?
 
 That's the core tension we're solving at Coast — fleet cards, expense management, and spend controls built for the trades. I'm Alexandre, SVP of Product here, and I've been looking for designers who care about users that most of fintech ignores.
@@ -9,3 +16,6 @@ We're hiring a [Head of Product Design / Staff Product Designer] and I'm looking
 If that's you — or someone you know — DM me or drop a comment. Thanks!
 
 [Link to JD]
+
+# Product management
+

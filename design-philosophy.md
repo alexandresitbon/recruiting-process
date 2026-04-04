@@ -1,3 +1,8 @@
+---
+name: Coast design philosophy
+description: Describes what is design at Coast, what the design team believes in, and how the design operates
+---
+
 # Coast Product Design Philosophy
 
 ## What design Is
